@@ -1,0 +1,8 @@
+ Python hỗ trợ những kiểu dữ liệu cơ bản sau
+ 1. Số nguyên (int)
+ 2. Số thực (float)
+ 3. Kiểu logic (boolean)
+ 4. Chuỗi ký tự (string)
+ 5. Kiểu danh sách (list)
+ 6. Kiểu dữ liệu bộ (tuple)
+ 7. Kiểu dữ liệu từ điển (dictionary)
