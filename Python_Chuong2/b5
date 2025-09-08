@@ -1,0 +1,10 @@
+Các loại ghi chú trong python
+1. Ghi chú một dòng (Single-line comment)
+Bắt đầu bằng dấu #
+Tất cả những gì phía sau # trên cùng một dòng sẽ bị bỏ qua.
+VD:
+print("Xin chào!") #Câu lệnh in ra dòng chữ Xin chào!
+2. Ghi chú nhiều dòng (Multi-line comment)
+Dùng 3 dấu nháy đơn '''...''' hoặc 3 dấu nháy kép """...""".
+Thường đặt ngay sau định nghĩa hàm, lớp hoặc module để mô tả công dụng.
+Trình thông dịch vẫn lưu docstring lại như một chuỗi (khác với # bị bỏ qua hoàn toàn).
