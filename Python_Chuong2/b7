@@ -1,0 +1,4 @@
+Nhập chuỗi	                        input()	                             
+Nhập số theo kiểu dữ liệu           "kiểu dữ liệu"(input())	
+Nhập nhiều giá trị  	              a, b = input().split()
+Nhập danh sách số	                  lst = list(map(int, input().split()))
