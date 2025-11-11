@@ -44,6 +44,6 @@ aButton = Frame(root)
 Button(root, text = "Chuyển", command = Chuyen, width = 4).grid(row = 1, column = 1)
 
 Label(root, text="Nhập âm:", bg="yellow").grid(row = 2, column=0)
-Entry(root, width=15, textvariable=stringNA, bg="yellow").grid(row = 2, column = 1)
+Label(root, textvariable=stringNA, bg="yellow").grid(row = 2, column=1)
 
 root.mainloop()
